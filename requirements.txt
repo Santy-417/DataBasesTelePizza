@@ -1,0 +1,17 @@
+pandas
+xlrd
+python-dotenv
+pydantic 
+
+langchain
+langchain_openai
+langgraph 
+
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+mysql-connector-python
+
+streamlit
+watchdog
