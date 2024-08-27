@@ -14,7 +14,7 @@ CREATE TABLE
 CREATE TABLE
     IF NOT EXISTS orders (
         order_id INT AUTO_INCREMENT PRIMARY KEY,
-        product_id INT,
+        product_id INT,        
         order_date DATETIME NOT NULL,
         quantity INT NOT NULL,
         customer_name VARCHAR(255) NOT NULL,
