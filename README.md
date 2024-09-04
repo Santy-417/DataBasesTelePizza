@@ -18,7 +18,10 @@ Create file *requirements.txt*
 ```bash
     streamlit run app.py 
 ```
-
+## Install openpyxl
+```
+    pip install openpyxl
+```
 
 # Utilities
 ## Steps to remove virtual environment

@@ -1,3 +1,8 @@
 venv
 
 .env
+
+db-creation.sql
+
+Products.xlsx
+Orders.xlsx
